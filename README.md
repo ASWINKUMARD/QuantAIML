@@ -60,3 +60,10 @@
 ✅ 5 local prediction explanations
 
 ✅ Feature contribution ranking
+
+### 👨‍💻 Author
+
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
+
